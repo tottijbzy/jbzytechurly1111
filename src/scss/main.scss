@@ -122,6 +122,7 @@ h1 {
   font-size: 2em;
   @include bp(mid) {
     font-size: 3em;
+    display: none;
   }
 }
 
